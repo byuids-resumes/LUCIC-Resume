@@ -5,6 +5,10 @@ title: Drazen Lucic's Resume
 # Drazen Lucic
 Telecommunications Services Consultant, Software Developer
 
+<img src="https://www.facebook.com/photo/?fbid=10155488664028369&set=a.444591803368"
+     alt="Drazen Lucic's Picture"
+     style="float: left; margin-right: 10px;" />
+
 <div id="webaddress">
 <a href="lucicd@hotmail.com">lucicd@hotmail.com</a>
 | <a href="https://www.facebook.com/drazen.lucic">My Facebook Page</a>
