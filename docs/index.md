@@ -4,7 +4,7 @@ title: Drazen Lucic's Resume
 ---
 # Drazen Lucic
 Telecommunications Services Consultant, Software Developer
-[Drazen Lucic's Picture](https://scontent.ffjr1-6.fna.fbcdn.net/v/t31.18172-8/26063569_10155488664028369_4211447207090196586_o.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=AmvL-Rq0zvwAX-f76hb&_nc_ht=scontent.ffjr1-6.fna&oh=00_AT8rkpNhRhrOmNA6zNTX9JuCHeHN6PSrWtplswEB0u7cBw&oe=62F6D055)
+[Drazen Lucic's Picture](https://media-exp1.licdn.com/dms/image/C5103AQGTff6nMdPnAg/profile-displayphoto-shrink_800_800/0/1560259605142?e=1663200000&v=beta&t=sYXiT86s38Rx_MgRAlZxO1OMvMqortrxQ1A236KJxO0)
 
 <div id="webaddress">
 <a href="lucicd@hotmail.com">lucicd@hotmail.com</a>
