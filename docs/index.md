@@ -3,7 +3,7 @@ layout: cv
 title: Drazen Lucic's Resume
 ---
 # Drazen Lucic
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Telecommunications Services Consultant, Software Developer
 
 <div id="webaddress">
 <a href="lucicd@hotmail.com">lucicd@hotmail.com</a>
