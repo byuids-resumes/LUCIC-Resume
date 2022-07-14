@@ -4,7 +4,6 @@ title: Drazen Lucic's Resume
 ---
 # Drazen Lucic
 Telecommunications Services Consultant, Software Developer
-[Drazen Lucic's Picture](https://media-exp1.licdn.com/dms/image/C5103AQGTff6nMdPnAg/profile-displayphoto-shrink_800_800/0/1560259605142?e=1663200000&v=beta&t=sYXiT86s38Rx_MgRAlZxO1OMvMqortrxQ1A236KJxO0)
 
 <img src="https://media-exp1.licdn.com/dms/image/C5103AQGTff6nMdPnAg/profile-displayphoto-shrink_800_800/0/1560259605142?e=1663200000&v=beta&t=sYXiT86s38Rx_MgRAlZxO1OMvMqortrxQ1A236KJxO0"
      alt="Drazen Lucic's Picture"
